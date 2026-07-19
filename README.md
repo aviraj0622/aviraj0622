@@ -1,24 +1,14 @@
-## Hi there 👋
-
-<!--
-**aviraj0622/aviraj0622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help wit<h1 align="center">Hi 👋, I'm Prashant Patole</h1>
-<h3 align="center">🚀 Tech Enthusiast | Developer | Lifelong Learner</h3>
+<h1 align="center">Hi 👋, I'm Aviraj Ligade</h1>
+<h3 align="center">🚀 Java Full Stack Developer | Problem Solver | Lifelong Learner</h3>
 
 <p align="center">
-  <a href="mailto:prashantpatole04@gmail.com">
+  <a href="mailto:avirajligade73@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/prashant-patole">
+  <a href="https://www.linkedin.com/in/aviraj-ligade-033476280/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/prashantpatole1212/">
+  <a href="https://leetcode.com/u/aviraj0622/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
@@ -27,13 +17,15 @@ Here are some ideas to get you started:
 
 ## 💫 About Me
 
-- I'm a passionate Computer Science Engineering student and aspiring Java Full Stack Developer who enjoys building real-world applications and solving challenging problems.
 - 🎓 B.Tech in Computer Science & Engineering (2026)
-- 🌱 Currently learning **Machine Learning, and Artificial Intelligence**
+- 📊 CGPA: **9.33**
+- 💻 Passionate about **Java Development, Full Stack Development, and Problem Solving**
+- 🌱 Currently learning **Spring Boot, Advanced Java, Machine Learning, and Artificial Intelligence**
 - 📚 Solved **50+ LeetCode Problems**
+- 🏢 Java Full Stack Developer Intern at **QSpiders, Wakad Pune**
 - 💬 Ask me about **Java, SQL, Data Structures & Algorithms, HTML, CSS, and JavaScript**
 - 🚀 Love building real-world applications and exploring modern technologies
-- ⚡ I'm always eager to explore new technologies and stay up-to-date with the latest advancements in the tech industry.
+- ⚡ Enthusiastic about software development, problem-solving, and creating technology that makes a difference
 
 ---
 
@@ -98,33 +90,25 @@ Here are some ideas to get you started:
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/prashantpatole1212?theme=dark&font=Karma&ext=contest"/>
+  <img src="https://leetcard.jacoblin.cool/aviraj0622?theme=dark&font=Karma&ext=contest"/>
 </p>
-
----
-
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="mailto:prashantpatole04@gmail.com">
+<a href="mailto:avirajligade73@gmail.com">
 📧 Email
 </a> •
-<a href="https://www.linkedin.com/in/prashant-patole">
+<a href="https://www.linkedin.com/in/aviraj-ligade-033476280/">
 💼 LinkedIn
 </a> •
-<a href="https://leetcode.com/u/prashantpatole1212/">
+<a href="https://leetcode.com/u/aviraj0622/">
 🧠 LeetCode
 </a>
 </p>
 
 ---
 
-⭐ **Thanks for visiting my profile! Let's connect and build something amazing together.**  This code is all good , maintain code as it is only tool can display as in above image formath ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ **Thanks for visiting my profile! Let's connect and build something amazing together.**

@@ -98,7 +98,7 @@
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="mailto:avirajligade73@gmail.com">
+<a href="mailto:avirajligade0622@gmail.com">
 📧 Email
 </a> •
 <a href="https://www.linkedin.com/in/aviraj-ligade-033476280/">

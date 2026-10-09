@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Java Full Stack Developer | Problem Solver | Lifelong Learner</h3>
 
 <p align="center">
-  <a href="mailto:avirajligade73@gmail.com">
+  <a href="mailto:avirajligade0622@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/aviraj-ligade-033476280/">

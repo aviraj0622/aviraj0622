@@ -21,7 +21,6 @@
 - 📊 CGPA: **9.33**
 - 💻 Passionate about **Java Development, Full Stack Development, and Problem Solving**
 - 🌱 Currently learning **Spring Boot, Advanced Java, Machine Learning, and Artificial Intelligence**
-- 📚 Solved **50+ LeetCode Problems**
 - 🏢 Java Full Stack Developer Intern at **QSpiders, Wakad Pune**
 - 💬 Ask me about **Java, SQL, Data Structures & Algorithms, HTML, CSS, and JavaScript**
 - 🚀 Love building real-world applications and exploring modern technologies
